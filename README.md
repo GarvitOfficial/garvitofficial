@@ -16,17 +16,9 @@
 <p align="center">
   <img alt="Profile Summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=garvitofficial&theme=radical" />
 </p>
-
-<p align="center">
-  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=garvitofficial&theme=radical&hide_border=false&include_all_commits=false&count_private=false" />
-</p>
-
-<p align="center">
-  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=garvitofficial&theme=radical&hide_border=false" />
-</p>
-
-### 🏆 Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=garvitofficial&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
 
 
 ### ✍️ Random Dev Quote
